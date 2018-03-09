@@ -12,7 +12,7 @@ class Download extends \Magento\Framework\View\Element\Template
 
     /**
      * Filesystem
-     * @var \Magento\Framework\Filesystem     123  dssa
+     * @var \Magento\Framework\Filesystem
      */ 
     protected $filesystem;
 
