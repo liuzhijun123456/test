@@ -1,4 +1,4 @@
-<?php 1
+<?php 1 2
 namespace DCOnline\Sales\Block\Order\History;
 
 use Magento\Framework\App\Filesystem\DirectoryList;
